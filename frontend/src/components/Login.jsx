@@ -142,7 +142,7 @@ const Login = () => {
             <Box textAlign="center" mb={{ xs: 2, sm: 3, md: 4 }}>
               <Box mb={{ xs: 1, sm: 2 }}>
                 <img 
-                  src="/src/assets/12166762.png" 
+                  src="src/assets/12166762.png" 
                   alt="Task Manager" 
                   style={{ 
                     width: 70, 
